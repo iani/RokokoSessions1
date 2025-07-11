@@ -4,7 +4,14 @@ Put the folder  of this repository - or a symbolic link to it - in the Extension
 
 Then run 
 
-: Avatar.sessionGui;
+``` supercollider
+Avatar.sessionGui;
+``` 
+```
+
+```
+
+```
 
 This will open a list of existing sessions. Typing enter loads the selected session to the default Avatar instance for playing. 
 

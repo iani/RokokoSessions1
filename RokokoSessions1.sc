@@ -3,7 +3,7 @@
 // Put this folder or a symbolic link to  this folder into
 // your Extensions directory, and recompile the class library.
 
-RokokoSessions1 : RokokoSessionsBookmark {
+RokokoSessions1 : AvatarAssets {
 	*animationFolders {
 		^this subsubfolders: "Animations"
 	}
